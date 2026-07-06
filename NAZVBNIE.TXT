@@ -1,4 +1,4 @@
-#profile-title:MAIRAM FREE
+#profile-title:MAIRAM BIG
 #profile-update-interval:1
 #suppor ttps://t.me/Happkeo
 #profile-url:https://t.me/Hakeo
