@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=1; download=0; total=200000000001000; expire=2000000026
+#subscription-userinfo: upload=1; download=0; total=2000000020; expire=2000000020
 #profile-title: MAIRAM И ВСЕ!🥱
 #profile-update-interval: 1
 #support-url: https://t.me/HAKEOCH
