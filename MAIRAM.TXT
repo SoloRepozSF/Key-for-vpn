@@ -1,0 +1,6 @@
+#profile-title:MAIRAM FREE
+#profile-update-interval:1
+#suppor ttps://t.me/Hakeoch
+#profile-url:https://t.me/Hakeo
+
+vless://72edcaa1-685e-4022-9576-273746529e1f@78.159.245.45:25565?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=img.perekrestok.ru&pbk=Pw1EUU1hud5uvtfySGyGy5vV38bYIiQzDx-cDQoAdk0&sid=a5bd715847213387#%F0%9F%87%B7%F0%9F%87%BALTE%20-%20%D0%91%D0%B5%D0%BB%D1%8B%D0%B5%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8
