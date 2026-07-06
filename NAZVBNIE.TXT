@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=0; download=0; total=200000000000000; expire=2020202020
+#subscription-userinfo: upload=0; download=0; total=200000000000000; expire=2027-12-31
 #profile-title: MAIRAM И ГЛУШИЛКА!🛡️
 #profile-update-interval: 1
 #support-url: https://t.me/HAKEOCH
