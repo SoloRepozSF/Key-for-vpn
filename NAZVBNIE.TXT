@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=0; download=0; total=200000000000000; expire=1798761600
-#profile-title: MAIRAM И ГЛУШИЛКА!🛡️
+#profile-title: СКАЖИ РКНУ НЕТ!
 #profile-update-interval: 1
 #support-url: https://t.me/HAKEOCH
 #announce: LTE ВКЛЮЧАТЬ КОГДА ГЛУШАТ ⭐️ ДЛЯ ЭТОГО ЕСТЬ wifi🛜 
