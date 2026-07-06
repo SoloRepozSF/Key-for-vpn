@@ -1,5 +1,5 @@
-#subscription-userinfo: upload=1; download=0; total=2000000020; expire=2000000020
-#profile-title: MAIRAM И ВСЕ!🥱
+#subscription-userinfo: upload=1; download=100; total=2000000020; expire=2000000020
+#profile-title: MAIRAM И ВСЕ!
 #profile-update-interval: 1
 #support-url: https://t.me/HAKEOCH
 #announce: LTE ВКЛЮЧАТЬ КОГДА ГЛУШАТ ⭐️ ДЛЯ ЭТОГО ЕСТЬ wifi🛜 
