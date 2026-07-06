@@ -1,7 +1,8 @@
-#profile-title: БАТЯ ВПН СЛИВ 
+#subscription-userinfo: upload=0; download=0; total=200000000000000; expire=200000027
+#profile-title: СЛИВ БАТЯ!🛡️
 #profile-update-interval: 1
 #support-url: https://t.me/HAKEOCH
-#announce: 28.07.2026 61гб-♾️
+
 
 vless://e2773a58-d303-4683-8346-ef21ea1ba20f@at.emberpointstock.net:443?encryption=none&type=xhttp&security=tls&sni=at.emberpointstock.net&path=/assets/build/_app/immutable/chunks/stream-one/&host=at.emberpointstock.net&mode=auto&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"0","maxConnections":3,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}#Оптимум 🇷🇺 🇵🇱 🇪🇸 🇳🇱 🇬🇧 🇨🇿
 vless://e2773a58-d303-4683-8346-ef21ea1ba20f@pl2.denverpresents.top:443?encryption=none&type=xhttp&security=tls&sni=pl2.denverpresents.top&path=/assets/build/_app/immutable/chunks/stream-one/&host=pl2.denverpresents.top&mode=auto&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"0","maxConnections":3,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"}}#Оптимум 🇷🇺 🇵🇱 🇪🇸 🇳🇱 🇬🇧 🇨🇿
