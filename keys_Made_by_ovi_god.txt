@@ -1,4 +1,4 @@
-#subscription-userinfo: upload=0; download=0; total=200000000000000; expire=200000027
+#subscription-userinfo: upload=0; download=0; total=200000000000000; expire=2000000027
 #profile-title: СЛИВ БАТЯ!🛡️
 #profile-update-interval: 1
 #support-url: https://t.me/HAKEOCH
