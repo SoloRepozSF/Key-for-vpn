@@ -1,7 +1,7 @@
 #subscription-userinfo: upload=1; download=0; total=1024102420020202; expire=2528368383693
-#profile-title: WSVPN by: Apxutektop
+#profile-title: MAIRAM И ВСЕ
 #profile-update-interval: 1
-#support-url: https://t.me/WS_JuJuB01_vpn_keys
+#support-url: https://t.me/HAKEOCH
 #announce: LTE ВКЛЮЧАТЬ КОГДА ГЛУШАТ ⭐️ ДЛЯ ЭТОГО ЕСТЬ wifi🛜 
 
 🛡️При белых списках 🔽
