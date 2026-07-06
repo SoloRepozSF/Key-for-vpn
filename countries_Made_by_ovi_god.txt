@@ -1,4 +1,8 @@
-#%20RaViraNet%20Premium%20%7C%20Unknown%20%F0%9F%8F%B3
+profile-title: MAIRAM & RIVANET
+#profile-update-interval: 1
+#support-url: https://t.me/HAKEO
+#announce: В ЭТОЙ ПОДПИСКЕ 500 КЛЮЧЕЙ 🛡️🎮
+
 vless://89db0319-9651-0009-b599-770e18cab892@78.159.250.193:8443?flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=reality&sid=43dcff53849b81e6&sni=player.mediavitrina.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%D0%91%D0%95%D0%9B%D0%AB%D0%99%20IP%20%7C%20%40RaViraNet%20%7C%20Russia%20%F0%9F%87%B7%F0%9F%87%BA
 vless://89db0319-9651-0009-b599-770e18cab892@78.159.250.193:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=player.mediavitrina.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%D0%91%D0%95%D0%9B%D0%AB%D0%99%20IP%20%7C%20%40RaViraNet%20%7C%20Russia%20%F0%9F%87%B7%F0%9F%87%BA
 vless://89db0319-9651-0009-b599-770e18cab892@78.159.250.193:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&sid=43dcff53849b81e6&sni=player.mediavitrina.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%D0%91%D0%95%D0%9B%D0%AB%D0%99%20IP%20%7C%20%40RaViraNet%20%7C%20Russia%20%F0%9F%87%B7%F0%9F%87%BA
