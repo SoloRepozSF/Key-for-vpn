@@ -1,5 +1,5 @@
 #subscription-userinfo: upload=0; download=0; total=1072668082176; expire=1798761600
-#profile-title: СКАЖИ РКНУ НЕТ!
+#profile-title: СКАЖИ•РКНУ•НЕТ!
 #profile-update-interval: 1
 #support-url: https://t.me/HAKEOCH
 #announce: ГЛУШАТ ИНТЕРНЕТ ТО ТЕБЕ СУДА! РАБОТАЕТ ДАЖЕ НА ПАРКОВКЕ
