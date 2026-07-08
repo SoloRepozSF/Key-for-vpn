@@ -28,14 +28,7 @@ vless://c40f773e-3b96-417e-b22c-e48cb63ca7d9@144.31.87.16:2053?type=tcp&headerTy
 vless://31fb98b7-e7a1-4b56-8c6a-3f060f06393c@freetg.strettenvpn.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=eh.vk.com&pbk=yhUfTGgu5PYRlFqMnRZkxffH_aU05AFUToGI8_EKF28&sid=8248954896#%F0%9F%8C%90425Mb%20%7C%20TCP,%20VK%20V.O.I.D
 обход#11
 vless://fee5bf09-5d07-45e8-9a47-859b06694971@217.26.27.149:12443?type=xhttp&host=&path=/&mode=auto&security=reality&fp=qq&sni=vk.ru&pbk=UIpd1ZrRZxWI2HUazgIBL-pt4bFpYvu-b8SL7uQvdBM#%F0%9F%8C%90280Mb%20%7C%20%F0%9F%8F%B3%EF%B8%8F%20615%20-%20XX%20-%20VLESS/XHTTP/REAL
-обход#12
-vless://09a4bf7f-f997-4174-8bef-9fab75aa186e@138.124.52.85:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=www.google.com&pbk=K7v4Rsxa-9lBsD_IQrzXREfIME_bFmwELHQAE3Yp1ng&sid=b9988c11#%F0%9F%8C%90252Mb%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20vl-re-ra%20260708-124109.306
-Обход#13
-vless://43857e9b-1031-420a-8cde-06036796c9b4@217.16.21.129:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=eh.vk.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#%F0%9F%8C%90146Mb%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20*CIDR%20VK
-обход#14
-vless://43857e9b-1031-420a-8cde-06036796c9b4@217.16.21.129:7443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=eh.vk.com&pbk=-P8DgKISSG4jnLuj6ihZDqZs1_zt-juBrhVhTylHiAo#%F0%9F%8C%90146Mb%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20Finland%20*CIDR%20VK
-обход#15
-vless://35a14133-45f6-40bc-a9cd-918fd0ecb345@185.86.145.231:5443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ#%F0%9F%8C%9070Mb%20%7C%20%F0%9F%87%B7%F0%9F%87%BA%20Russia%20*CIDR%20VK
+
 обход#1
 vless://8a6f9d0b-dc16-431b-8914-cf8fde1eae7e@213.219.212.105:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%231%F0%9F%9B%A1%EF%B8%8F
 обход#2
