@@ -38,10 +38,8 @@ vless://fbf73f7a-8f36-44ef-a906-2dd02cc5e617@be.monkeyvillage.pro:443?encryption
 vless://fbf73f7a-8f36-44ef-a906-2dd02cc5e617@us.monkeyvillage.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.monkeyvillage.pro&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&sid=0e6ceae43c991d23&fp=firefox#🇺🇸 США
 обход 1 месяц
 vless://fbf73f7a-8f36-44ef-a906-2dd02cc5e617@pl.monkeyvillage.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=pl.monkeyvillage.pro&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&sid=0d11ddba599621c6&fp=firefox#🇵🇱 Польша
-антизаглушка
+япония
 vless://fbf73f7a-8f36-44ef-a906-2dd02cc5e617@jp.monkeyvillage.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=jp.monkeyvillage.pro&pbk=Q7-sRiaAcmlJ_iwqiA46kDKso_r2kJ7X1mrVjL2illo&sid=59798c0706093b78&fp=firefox#🇯🇵 Япония
-антиобход
-vless://db7cae85-3c1a-4e4f-b317-7cdeaf419c5a@109.120.190.41:1829?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=max.ru&pbk=dbe3HCS7E7QfvfN59Us7rV8Kasm_5CCUgKiGm8k8vRg&sid=c3607d#%F0%9F%87%AA%F0%9F%87%BA%D0%90%D0%BD%D1%82%D0%B8%20%D0%BE%D0%B1%D1%85%D0%BE%D0%B4%
 обход
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=825867#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4
 Обход
