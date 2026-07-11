@@ -112,8 +112,8 @@ AUTO WIFI
 vless://1e06c388-d31c-420e-916a-94a990648e34@mx.bexumconnect.ltd:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=mx.bexumconnect.ltd&fp=qq&allowInsecure=0&echfq=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%94%90%20%D0%90%D0%B2%D1%82%D0%BE-Wi-Fi%20&%20YouTube%20NoADS
 FRANKFURT
 hysteria2://1e06c388-d31c-420e-916a-94a990648e34@unic.hysteria.ltd:5443?fm=%257B%250A%2520%2520%2522quicParams%2522%2520:%2520%257B%250A%2520%2520%2520%2520%2522congestion%2522%2520:%2520%2522brutal%2522%250A%2520%2520%257D%250A%257D&type=hysteria&security=tls&sni=unic.hysteria.ltd&alpn=h3&fp=chrome&allowInsecure=0&echfq=none#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%A7%BA%20Frankfurt-2%203Gbit/s%20%7C%20%D1%82%D0%B3%D0%BA%20@HAPPKEO
-FINLANDIA
-vless://e9f67e27-f269-4dd8-8cb7-2281fa2fede5@31.76.21.111:52610?type=tcp&headerType=none&security=reality&fp=edge&sni=okko.tv&pbk=Nd1Efm_-pq3EJNcQU5WOU7d2lSgjtc5JFxLFQjQP-nA&sid=7bf016de036a78&spx=/2IBHxTaSY0KodW6#%F0%9F%87%AB%F0%9F%87%AEFinland,%20Helsinki%20%5B10gbit/s%5D%20%231
+Финлндия
+hysteria2://015ee7a6-4e8e-4247-80e2-d3768aa2120e@newlte.kihsuyhf8jkiugsxb.cfd:7443?fm=%257B%250A%250A%257D&type=hysteria&security=tls&sni=newlte.kihsuyhf8jkiugsxb.cfd&alpn=h3&allowInsecure=0&echfq=none#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%201%20tgk%20@HAPPKEO
 NEURO
 vless://9585bacb-8970-4512-8c13-b91b9b4e133c@84.201.141.105:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=api-maps.yandex.ru&pbk=Y-9HNHE0RGOzjIBwKSpOrzHFTIS4k3JGnf3FXSQGi3Q#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%9A%80MAIRAM%20%7C%20HAPPKEO
 NEYRO
