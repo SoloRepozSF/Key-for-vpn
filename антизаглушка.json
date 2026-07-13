@@ -1,0 +1,369 @@
+{
+  "burstObservatory" : {
+    "pingConfig" : {
+      "connectivity" : "",
+      "destination" : "https:\/\/www.google.com\/generate_204",
+      "interval" : "86400s",
+      "sampling" : 1,
+      "timeout" : "30s"
+    },
+    "subjectSelector" : [
+      "proxy"
+    ]
+  },
+  "dns" : {
+    "queryStrategy" : "UseIP",
+    "servers" : [
+      "8.8.8.8",
+      "8.8.4.4"
+    ]
+  },
+  "inbounds" : [
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10808,
+      "protocol" : "socks",
+      "settings" : {
+        "auth" : "noauth",
+        "udp" : true
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "socks"
+    },
+    {
+      "listen" : "127.0.0.1",
+      "port" : 10809,
+      "protocol" : "http",
+      "settings" : {
+        "allowTransparent" : false,
+        "auth" : "noauth"
+      },
+      "sniffing" : {
+        "destOverride" : [
+          "http",
+          "tls",
+          "quic"
+        ],
+        "enabled" : true,
+        "routeOnly" : false
+      },
+      "tag" : "http"
+    }
+  ],
+  "log" : {
+    "access" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/98818077-3DD7-4894-96BD-BF8F39FCFD08\/Library\/Application Support\/Xray\/logs\/access.log",
+    "dnsLog" : true,
+    "error" : "\/private\/var\/mobile\/Containers\/Shared\/AppGroup\/98818077-3DD7-4894-96BD-BF8F39FCFD08\/Library\/Application Support\/Xray\/logs\/connectionLogs\/2026-07-12_07-21-59.log",
+    "loglevel" : "Warning"
+  },
+  "outbounds" : [
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "vcdn-api.game-call.com",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "",
+                "id" : "974925d3-c2fe-4144-914e-a5333d870215"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "xhttp",
+        "security" : "tls",
+        "tlsSettings" : {
+          "alpn" : [
+            "h2",
+            "http\/1.1"
+          ],
+          "fingerprint" : "edge",
+          "serverName" : "vcdn-api.game-call.com"
+        },
+        "xhttpSettings" : {
+          "extra" : {
+            "path" : "\/api\/uploadFile\/",
+            "seqKey" : "chunk_id",
+            "seqPlacement" : "query",
+            "sessionIDKey" : "X-Upload-Token",
+            "sessionIDLength" : "21",
+            "sessionIDPlacement" : "header",
+            "sessionIDTable" : "Base62",
+            "sessionKey" : "X-Upload-Token",
+            "sessionPlacement" : "header",
+            "uplinkHTTPMethod" : "GET",
+            "xmux" : {
+              "cMaxLifetimeMs" : 300000,
+              "cMaxReuseTimes" : 100,
+              "maxConcurrency" : "16-32",
+              "maxConnections" : 0
+            },
+            "xPaddingHeader" : "X-Client-Version",
+            "xPaddingKey" : "hash",
+            "xPaddingMethod" : "tokenish",
+            "xPaddingObfsMode" : true,
+            "xPaddingPlacement" : "queryInHeader"
+          },
+          "host" : "vcdn-api.game-call.com",
+          "mode" : "packet-up",
+          "path" : "\/api\/uploadFile\/"
+        }
+      },
+      "tag" : "proxy"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "vcdn-api1.game-call.com",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "",
+                "id" : "974925d3-c2fe-4144-914e-a5333d870215"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "xhttp",
+        "security" : "tls",
+        "tlsSettings" : {
+          "alpn" : [
+            "h2",
+            "http\/1.1"
+          ],
+          "fingerprint" : "edge",
+          "serverName" : "vcdn-api1.game-call.com"
+        },
+        "xhttpSettings" : {
+          "extra" : {
+            "path" : "\/api\/uploadFile\/",
+            "seqKey" : "chunk_id",
+            "seqPlacement" : "query",
+            "sessionIDKey" : "X-Upload-Token",
+            "sessionIDLength" : "21",
+            "sessionIDPlacement" : "header",
+            "sessionIDTable" : "Base62",
+            "sessionKey" : "X-Upload-Token",
+            "sessionPlacement" : "header",
+            "uplinkHTTPMethod" : "GET",
+            "xmux" : {
+              "cMaxLifetimeMs" : 300000,
+              "cMaxReuseTimes" : 100,
+              "maxConcurrency" : "16-32",
+              "maxConnections" : 0
+            },
+            "xPaddingHeader" : "X-Client-Version",
+            "xPaddingKey" : "hash",
+            "xPaddingMethod" : "tokenish",
+            "xPaddingObfsMode" : true,
+            "xPaddingPlacement" : "queryInHeader"
+          },
+          "host" : "vcdn-api1.game-call.com",
+          "mode" : "packet-up",
+          "path" : "\/api\/uploadFile\/"
+        }
+      },
+      "tag" : "proxy-2"
+    },
+    {
+      "protocol" : "vless",
+      "settings" : {
+        "vnext" : [
+          {
+            "address" : "vcdn-api2.game-call.com",
+            "port" : 443,
+            "users" : [
+              {
+                "encryption" : "none",
+                "flow" : "",
+                "id" : "974925d3-c2fe-4144-914e-a5333d870215"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings" : {
+        "network" : "xhttp",
+        "security" : "tls",
+        "tlsSettings" : {
+          "alpn" : [
+            "h2",
+            "http\/1.1"
+          ],
+          "fingerprint" : "edge",
+          "serverName" : "vcdn-api2.game-call.com"
+        },
+        "xhttpSettings" : {
+          "extra" : {
+            "path" : "\/api\/uploadFile\/",
+            "seqKey" : "chunk_id",
+            "seqPlacement" : "query",
+            "sessionIDKey" : "X-Upload-Token",
+            "sessionIDLength" : "21",
+            "sessionIDPlacement" : "header",
+            "sessionIDTable" : "Base62",
+            "sessionKey" : "X-Upload-Token",
+            "sessionPlacement" : "header",
+            "uplinkHTTPMethod" : "GET",
+            "xmux" : {
+              "cMaxLifetimeMs" : 300000,
+              "cMaxReuseTimes" : 100,
+              "maxConcurrency" : "16-32",
+              "maxConnections" : 0
+            },
+            "xPaddingHeader" : "X-Client-Version",
+            "xPaddingKey" : "hash",
+            "xPaddingMethod" : "tokenish",
+            "xPaddingObfsMode" : true,
+            "xPaddingPlacement" : "queryInHeader"
+          },
+          "host" : "vcdn-api2.game-call.com",
+          "mode" : "packet-up",
+          "path" : "\/api\/uploadFile\/"
+        }
+      },
+      "tag" : "proxy-3"
+    },
+    {
+      "protocol" : "freedom",
+      "tag" : "direct"
+    },
+    {
+      "protocol" : "blackhole",
+      "tag" : "block"
+    }
+  ],
+  "remarks" : "ðªðºð #3 ÐÐ½ÑÐ¸Ð·Ð°Ð³Ð»ÑÑÐºÐ° [Ð¢Ð ÐÐ¤ x10]",
+  "routing" : {
+    "balancers" : [
+      {
+        "fallbackTag" : "direct",
+        "selector" : [
+          "proxy"
+        ],
+        "strategy" : {
+          "settings" : {
+            "expected" : 1,
+            "maxRTT" : "2s",
+            "tolerance" : 0
+          },
+          "type" : "leastPing"
+        },
+        "tag" : "Super_Balancer"
+      }
+    ],
+    "domainMatcher" : "hybrid",
+    "domainStrategy" : "IPIfNonMatch",
+    "rules" : [
+      {
+        "domain" : [
+          "domain:max.ru",
+          "domain:2gis.ru",
+          "domain:ads.x5.ru",
+          "domain:2gis.com",
+          "domain:aif.ru",
+          "domain:aeroflot.ru",
+          "domain:alfabank.ru",
+          "domain:avito.ru",
+          "domain:beeline.ru",
+          "domain:burgerkingrus.ru",
+          "domain:dellin.ru",
+          "domain:drive2.ru",
+          "domain:dzen.ru",
+          "domain:flypobeda.ru",
+          "domain:forbes.ru",
+          "domain:gazeta.ru",
+          "domain:gazprombank.ru",
+          "domain:gismeteo.ru",
+          "domain:gosuslugi.ru",
+          "domain:hh.ru",
+          "domain:kontur.ru",
+          "domain:kontur.host",
+          "domain:kp.ru",
+          "domain:kuper.ru",
+          "domain:mail.ru",
+          "domain:megamarket.ru",
+          "domain:megamarket.tech",
+          "domain:megafon.ru",
+          "domain:moex.com",
+          "domain:motivtelecom.ru",
+          "domain:ozon.ru",
+          "domain:wildberries.ru",
+          "domain:cdnwb.ru",
+          "domain:pervye.ru",
+          "domain:psbank.ru",
+          "domain:rambler.ru",
+          "domain:rambler-co.ru",
+          "domain:rbc.ru",
+          "domain:2ip.io",
+          "domain:reviews.2gis.com",
+          "domain:rg.ru",
+          "domain:ria.ru",
+          "domain:ruwiki.ru",
+          "domain:rustore.ru",
+          "domain:rutube.ru",
+          "domain:rzd.ru",
+          "domain:sirena-travel.ru",
+          "domain:sravni.ru",
+          "domain:t-j.ru",
+          "domain:t2.ru",
+          "domain:tank-online.com",
+          "domain:taximaxim.ru",
+          "domain:tbank-online.com",
+          "domain:tildaapi.com",
+          "domain:tns-counter.ru",
+          "domain:trvl.yandex.net",
+          "domain:tutu.ru",
+          "domain:vk.com",
+          "domain:vk.ru",
+          "domain:vkvideo.ru",
+          "domain:vtb.ru",
+          "domain:ya.ru",
+          "domain:yandex.ru",
+          "domain:yandex.net",
+          "domain:yandex.com",
+          "domain:yastatic.net",
+          "domain:yandexcloud.net",
+          "domain:go.yandex",
+          "domain:ru.ruwiki.ru",
+          "domain:xn--90acagbhgpca7c8c7f.xn--p1ai",
+          "domain:xn--80ajghhoc2aj1c8b.xn--p1ai",
+          "domain:xn--90aivcdt6dxbc.xn--p1ai",
+          "domain:xn--b1aew.xn--p1ai",
+          "domain:api.oneme.ru",
+          "domain:fd.oneme.ru",
+          "domain:i.oneme.ru",
+          "domain:miniapps.max.ru",
+          "domain:sdk-api.apptracer.ru",
+          "domain:st.max.ru",
+          "domain:tracker-api.vk-analytics.ru"
+        ],
+        "outboundTag" : "direct",
+        "type" : "field"
+      },
+      {
+        "balancerTag" : "Super_Balancer",
+        "network" : "tcp,udp",
+        "type" : "field"
+      }
+    ]
+  }
+}
