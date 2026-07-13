@@ -102,8 +102,6 @@ vless://96423879-75e7-4b83-9298-98a39888a8ba@85.239.54.134:8443?encryption=none&
 vless://d472fc11-2a60-49a2-b213-7dba7d670ca4@77.95.206.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dZc66krQqsfx77fxs-fY7HspF8CrFmADV_88OgreoUg&security=reality&sid=359c2e965e8f&sni=k.mediastreamer.ru&spx=/&type=tcp#🇷🇺 Russia | 🌐 [*CIDR]
 vless://d472fc11-2a60-49a2-b213-7dba7d670ca4@77.95.206.179:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dZc66krQqsfx77fxs-fY7HspF8CrFmADV_88OgreoUg&security=reality&sid=db&sni=k.mediastreamer.ru&spx=/&type=tcp#🇷🇺 Russia | 🌐 [*CIDR]
 vless://1e06c388-d31c-420e-916a-94a990648e34@omg.herumhas.shop:5443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=LGcG8Sqv5vPDypbaEgHV0ZGqQOBkgDepPWXyDohbVXQ&sni=max.ru#🇷🇺 Russia [*CIDR] VK
-vless://79d12055-93ef-41e5-9bda-c31f9efaa4c3@45.144.31.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WJCo3fRvWvDr0PCPEhBjeAZZJ96YYuhw1GonBni5FjY&security=reality&sid=66041df2f6d9055b&sni=koy.mediastreamer.ru&spx=/&type=tcp#🌐 Anycast-IP | 🇦🇱 [*CIDR]
-vless://79d12055-93ef-41e5-9bda-c31f9efaa4c3@45.144.31.55:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=WJCo3fRvWvDr0PCPEhBjeAZZJ96YYuhw1GonBni5FjY&security=reality&sid=5d54c5e690&sni=koy.mediastreamer.ru&spx=/&type=tcp#🌐 Anycast-IP | 🇦🇱 🇷🇺 [*CIDR]
 hysteria2://1e06c388-d31c-420e-916a-94a990648e34@hyst-1.hysteria.ltd:5443?sni=hyst-1.hysteria.ltd#🇷🇺 Russia [*CIDR] VK
 hysteria2://1e06c388-d31c-420e-916a-94a990648e34@vkmks.hysteria.ltd:5443?security=tls&fm={}&sni=vkmks.hysteria.ltd#🇷🇺 Russia [*CIDR] VK
 закончивается игарок
