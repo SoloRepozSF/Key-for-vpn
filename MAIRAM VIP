@@ -5,18 +5,6 @@
 #announce: ГЛУШАТ ИНТЕРНЕТ ТО ТЕБЕ СУДА! РАБОТАЕТ ДАЖЕ НА обход
 ФРИ 
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:0?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=example.com&pbk=0000000000000000000000000000000000000000000&sid=000000#%F0%9F%86%93FREE%20GAMING+%D0%9E%D0%91%D0%A5%D0%9E%D0%94%E2%9C%88%EF%B8%8F
-4г
-vless://361e332f-91c0-4fd5-90f6-b44e9fdea67c@31.129.42.56:80?flow=&type=grpc&mode=gun&serviceName=grpc&security=none#%F0%9F%87%B7%F0%9F%87%BA%F0%9F%9A%80%204G
-4г-5г
-vless://521bb11a-4262-4e8e-97f6-1bec8bf86de7@91.240.87.201:8444?flow=&type=grpc&mode=gun&serviceName=grpc&security=reality&fp=firefox&sni=ads.x5.ru&pbk=JjxjQ0bCB8UZDC4Tjs3FhWJciPB6jBd0846Ew31hSQk&sid=a1b2c3d4#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9A%80%204/5G
-4г
-vless://521bb11a-4262-4e8e-97f6-1bec8bf86de7@31.177.111.144:443?flow=&type=grpc&mode=gun&serviceName=grpc&security=reality&fp=firefox&sni=ads.x5.ru&pbk=J3W60M3AtU5k97dW435MfETjHX-DtfFqNrRUNoj2MXE&sid=a1b2c3d4#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9A%804G
-4г-5г
-vless://521bb11a-4262-4e8e-97f6-1bec8bf86de7@79.174.95.96:443?flow=&type=grpc&mode=gun&serviceName=grpc&security=reality&fp=firefox&sni=ads.x5.ru&pbk=tVc65Jg20nTeP9qsSd9WIqRjLqU-PWKFYtBYHQbwtyw&sid=a1b2c3d4#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9A%804G-5G
-4г
-vless://521bb11a-4262-4e8e-97f6-1bec8bf86de7@84.201.168.122:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=www.vk.com&pbk=bwuT_tpimT_uUeWpSn-HbRztfol4o4uCcUHcdvkeFx0&sid=27e53bbcab7593d7#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9A%804G
-4г
-vless://521bb11a-4262-4e8e-97f6-1bec8bf86de7@84.201.168.122:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=yandex.ru&pbk=Ec54Eop0jZft7rcJsPN4RHc4xG9smXhtenM52pJFUQI&sid=27e53bbcab7593d7#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9A%804G
 обход
 vless://c61ec320-29f1-4e00-9272-8b676e6957b4@89.169.39.55:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=Lbug_wz0y9xgKeDK44D9kuUap0fXzNKyv_nMJxnZRzU&sid=825867#%F0%9F%87%B7%F0%9F%87%BA%D0%9E%D0%B1%D1%85%D0%BE%D0%B4
 PLUS LTE
@@ -25,10 +13,6 @@ LTE GERMANY
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@de.vrsvpn.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=web.max.ru&pbk=QocXHwad0mV7WA5jSAcqDac3uuVBEp1WF775-CilniE&sid=45ba18f429ad1f28#%F0%9F%87%A9%F0%9F%87%AADE%20%5B%F0%9F%8F%B3LTE%5D%20%2331
 LTE SHWEDEN
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@se.vrsvpn.com:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=web.max.ru&pbk=HUIUjR11K2-23-4Y-i51g9cun8etjfgaWW-h8AsEtEU&sid=45ba24f179ad1f26#%F0%9F%87%B8%F0%9F%87%AASE%20%5B%F0%9F%8F%B3LTE%5D%20%233
-4g
-vless://521bb11a-4262-4e8e-97f6-1bec8bf86de7@176.109.85.139:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=api-maps.yandex.ru&pbk=xwusQ4IEWdYyuPLCc4LOA89P6HyQDNT7xo_75v2YW2I&sid=27e53bbcab7593d7#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9A%80%204g
-4g
-vless://521bb11a-4262-4e8e-97f6-1bec8bf86de7@176.109.85.139:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=random&sni=smartcaptcha.yandexcloud.net&pbk=iRbc5G3wZbluYutzDvrJlc356yJsEnhV1T4tvE-tCnM&sid=27e53bbcab7593d7#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%9A%804g
 австрия
 vless://44e084a7-4928-4492-b646-7dc417066576@95.163.211.21:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=at.sellflow.org&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#%F0%9F%87%A6%F0%9F%87%B9Austria%20%E2%80%94%20%237
 ру обход
