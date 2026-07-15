@@ -25,7 +25,22 @@ vless://7b659297-1570-4ef3-bc31-8334cc112183@2.26.82.237:443?flow=&type=grpc&mod
 
 wi-Fi🛜
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?type=tcp&headerType=none&security=none#%F0%9F%87%AB%F0%9F%87%B2%E2%AC%87%EF%B8%8F%20Wi-Fi%20%E2%AC%87%EF%B8%8F
-
+ОБЫЧНЫЙ
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@de.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&alpn=http/1.1&fp=qq&allowInsecure=0#%F0%9F%87%AA%F0%9F%87%BA%E2%9A%A1%D0%90%D0%B2%D1%82%D0%BE%20%7C%20%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9%20VPN
+ОБЫСНЫЙ 2
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@fr.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&fp=chrome&allowInsecure=0#%F0%9F%87%AA%F0%9F%87%BA%E2%9A%A1%D0%90%D0%B2%D1%82%D0%BE%20%7C%20%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9%20VPN
+РОССИЯ БТУБ
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@yt-noads.sbrf-cdn342.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&alpn=http/1.1&fp=qq&allowInsecure=0#%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%5BYouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%5D
+НИДЕРЛАНДЫ ТОРРЕНТ
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@nl.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&alpn=http/1.1&fp=firefox&allowInsecure=0#%F0%9F%87%B3%F0%9F%87%B1%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%7C%20%D0%A2%D0%BE%D1%80%D1%80%D0%B5%D0%BD%D1%82
+польша
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@pl.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&allowInsecure=0#%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+германия
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@de.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&alpn=http/1.1&fp=firefox&allowInsecure=0#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
+франция
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@fr.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&allowInsecure=0#%F0%9F%87%AB%F0%9F%87%B7%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
+эстония
+vless://881cbd87-6cc3-41f9-9d4c-303fa2f8deab@est-def.applepie-recipe.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=tls&sni=shopper.applepie-recipe.ru&fp=firefox&allowInsecure=0#%F0%9F%87%AA%F0%9F%87%AA%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D1%8F
 германия
 vless://1f4c983e-382c-d2fa-b2dc-7981f02b34de@62.60.155.0:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=firefox&sni=telegraph.co.uk&pbk=YD3G553bQP0uWuyYDY9ZvhLCmfF9tmKUo8MRuALEFUw&sid=deee73#%F0%9F%87%A9%F0%9F%87%AA%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 ЩВЕЦИЯ 
