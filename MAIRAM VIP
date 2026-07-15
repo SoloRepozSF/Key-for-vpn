@@ -19,9 +19,6 @@ LYE
 vless://497e0f66-7e06-11f1-ab12-4a3c4e08f6b3@5.188.141.144:2053?flow=&type=grpc&mode=gun&serviceName=grpc-direct&security=reality&fp=chrome&sni=hh.ru&pbk=WUY8Lb4LfUUKLzZK3oSlRAdoy-Iu0w3Ait1-jtxbW1M&sid=e432eea05ffadf84#%F0%9F%87%B8%F0%9F%87%B4LTE%20%7C
 EURO LTE
 vless://16646b55-46c3-4fb6-981f-90023b81fa50@189.74.117.3:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=edge&sni=api.yandex-api.org&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4#%F0%9F%87%AA%F0%9F%87%BAEURO%20%7CLTE
-LTE 5G
-vless://7b659297-1570-4ef3-bc31-8334cc112183@2.26.82.237:443?flow=&type=grpc&mode=gun&serviceName=grpc&security=reality&fp=chrome&sni=speed.cloudflare.com&pbk=VmBEjLUpiEnoNIaPNGDfVPIOzH_ktSDdsGGAvissxgI#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%9A%80%20LTE%204G/5G
-
 
 wi-Fi🛜
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?type=tcp&headerType=none&security=none#%F0%9F%87%AB%F0%9F%87%B2%E2%AC%87%EF%B8%8F%20Wi-Fi%20%E2%AC%87%EF%B8%8F
